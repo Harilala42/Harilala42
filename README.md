@@ -1,5 +1,5 @@
 # 💫 About Me
-Hi 👋! I'm currently a CS student at 42 Antananarivo, evolving from C/C++ systems engineering to building high-performance scalable AI agents. Proficient in React, FastAPI, and LangChain stack. Passionate about automating complex workflows and eager to tackle high-impact projects.
+Hi 👋! I'm currently a CS student at 42 Antananarivo, evolving from low-level C/C++ systems engineering to building high-performance scalable AI agents. Proficient in React, FastAPI, and LangChain stack. Passionate about automating complex workflows and eager to tackle high-impact projects.
 
 
 ## 🌐 Socials
