@@ -19,6 +19,8 @@ I'm currently a CS student at 42 Antananarivo, evolving from C/C++ systems engin
 **DevOps & System:**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=harilala42&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ### ✍️ Core Philosophy
 ---
 > "It's not that I'm so smart, it's just that I stay with problems longer." 
